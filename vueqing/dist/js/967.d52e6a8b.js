@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueqing"]=self["webpackChunkvueqing"]||[]).push([[967],{7967:function(n,t,u){u.r(t),u.d(t,{default:function(){return l}});var e=function(){var n=this;n._self._c;return n._m(0)},i=[function(){var n=this,t=n._self._c;return t("div",[t("h1",[n._v("404 NOT FOUND")]),t("i",[n._v("请重新登录")]),t("div",[t("img",{attrs:{src:u(7811),alt:""}})])])}],r={name:"404"},s=r,f=u(1001),c=(0,f.Z)(s,e,i,!1,null,"201f7d26",null),l=c.exports},7811:function(n,t,u){n.exports=u.p+"img/img.012bf786.png"}}]);
+//# sourceMappingURL=967.d52e6a8b.js.map

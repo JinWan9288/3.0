@@ -1,0 +1,79 @@
+ 
+spring mvc   spring连接  mybatis
+控制反转 （减低计算机代码之间的耦合度）依赖注入
+整合3大框架的流程 （极其复杂）
+
+
+SpringBoot解决的痛点问题：
+简化Web项目
+没有XML的要求
+内置tomcat
+简化 且 整合了 Spring Spring MVC 的 框架
+
+实现热部署，mybatis框架
+
+拉通三大框架
+
+ctrl + r 替换
+
+SSH SSM 中间 S 一直是 Spring 
+spring 是servlet 的升级
+servlet接受浏览器的请求，后端的请求
+
+定点 依赖注入
+请求依赖
+
+依赖图谱
+
+方法里的是局部变量，类内部的是成员变量。Ele
+this.变量 是成员变量， 也叫全局变量。
+
+万物皆对象 java
+万物皆组件 vue 
+
+vue 生命周期   流程图 before created  create  mounted (一直update）destory
+html + js
+
+VueRouter 依赖文件
+
+前端逻辑处理
+
+Routes 
+
+入门难
+
+ 
+组件化
+
+Vue.componment
+componment 组件
+
+data 是函数
+data 是对象
+
+return 创建对象 有地址
+
+
+VUE CUI 脚手架 基于node.js 进行快速开发的完整系统
+
+软件级别的脚手架
+
+command-line interface 
+
+node.js 是 js 的后台环境
+
+2.X 3.X 有区别
+2. X vue-cli
+3.X @vue/cli
+
+VUE CLI 致力于将Vue 中工具基础标准化
+
+NPM settings
+
+element layout container 按钮
+
+node template
+
+类名大驼峰，变量方法小驼峰
+class : HelloWorld
+变量: 

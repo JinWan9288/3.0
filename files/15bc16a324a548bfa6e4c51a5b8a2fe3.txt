@@ -1,0 +1,45 @@
+# 1.Routs
+
+是路由信息的集合[{home 按钮 =>home内容 }
+
+# 2.Router
+
+router 是一个机制，相当于一个管理者，它来管理路由
+
+# 3.Route
+
+代表一条路由信息（Home按钮 => home内容， 这是一条route）
+
+
+
+
+# 为网站提供导航功能的菜单。
+
+<el-menu>
+
+   <el-submenu index="1">
+
+      <el-menu-item-group>
+
+         <template slot="title">分组一</template>
+
+         <el-menu-item index="1-1">选项1</el-menu-item>
+
+         <el-menu-item index="1-2">选项2</el-menu-item>
+
+      </el-menu-item-group>
+
+   </el-submenu>
+</el-menu>
+
+
+业务  :
+登录
+注册
+文章推送
+修改密码
+数据的增删与修改
+好友的增加与删除
+动态发布与浏览
+动态管理
+用户管理
